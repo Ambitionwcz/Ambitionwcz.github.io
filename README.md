@@ -21,7 +21,7 @@
 #### 作业三
 
 
-[网页设计链接](https://Ambitionwcz.github.io/.html)  
+[网页设计链接](https://Ambitionwcz.github.io/webdesign.html)  
 
 
 ## 计算机科学与编程入门 第二次作业
